@@ -39,3 +39,7 @@ git branch -d <имя_ветк>
 ```sh
 git log --oneline --graph
 ```
+Если хотите посмотреть полный график то можно сделать так:
+```sh
+git log --graph
+```
