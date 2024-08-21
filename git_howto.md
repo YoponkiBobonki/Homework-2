@@ -17,3 +17,12 @@ dir
 ```sh
 del<filename>
 ```
+посмотреть лог в сокращенном виде 
+```sh
+git log --oneline
+```
+
+Перемещение по веткам 
+```sh
+git checkout <branch_name>
+```
