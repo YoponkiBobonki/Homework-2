@@ -24,5 +24,10 @@ git log --oneline
 
 Перемещение по веткам 
 ```sh
-git checkout <branch_name>
+gitй checkout <branch_name>
+```
+
+Создать branch
+```sh
+git branch <имя branch>
 ```
