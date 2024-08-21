@@ -43,3 +43,8 @@ git log --oneline --graph
 ```sh
 git log --graph
 ```
+
+Иногда после конфликта не получится удалить ветку через **git branch -d** в этом случае нужно использовать эту команду
+```sh
+git branch -D <name_branch>
+```
