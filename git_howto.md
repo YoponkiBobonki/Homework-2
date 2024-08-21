@@ -48,3 +48,7 @@ git log --graph
 ```sh
 git branch -D <name_branch>
 ```
+
+wqeqweqwewqeqweqwew
+wqewqeqwewqewq
+wqeqwew
