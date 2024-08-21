@@ -26,3 +26,8 @@ git log --oneline
 ```sh
 git checkout <branch_name>
 ```
+
+создать ветку
+```sh
+git branch <branch_name>
+```
