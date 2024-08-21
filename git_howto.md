@@ -49,6 +49,4 @@ git log --graph
 git branch -D <name_branch>
 ```
 
-wqeqweqwewqeqweqwew
-wqewqeqwewqewq
-wqeqwew
+> не знаю еще что добавить поэтому хочу спросить когда я пишу *git log*  мне показывает последние две коммита, а остальных нет. как можно это исправить или это так и должно быть ?) 
