@@ -39,3 +39,6 @@ git branch -d <имя_ветк>
 ```sh
 git log --oneline --graph
 ```
+или же можно просто 
+```sh
+git log --graph
